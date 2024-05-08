@@ -17,3 +17,7 @@ specified otherwise, this is `~/.config/kitty/`.
 ## Credit
 
 The `>^_^<` font is [Monofur](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur).
+
+## More icons
+
+More alternate icons are available [here](https://sw.kovidgoyal.net/kitty/faq/#i-do-not-like-the-kitty-icon).
