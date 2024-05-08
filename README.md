@@ -14,6 +14,6 @@ An alternate icon for the [Kitty terminal](https://sw.kovidgoyal.net/kitty/).
 Copy `kitty.app.png` into your Kitty's config directory.  Unless you've
 specified otherwise, this is `~/.config/kitty/`.
 
-## Font
+## Credit
 
 The `>^_^<` font is [Monofur](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur).
